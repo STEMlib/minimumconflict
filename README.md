@@ -1,0 +1,2 @@
+# minimumconflict
+computational social science
